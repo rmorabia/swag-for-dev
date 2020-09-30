@@ -43,7 +43,7 @@ Please consider donating to cover up our hosting costs. 🙏
 
 Contribute to swag-for-dev using a fully featured online development environment that will automatically: clone the repo, install the dependencies and start the webserver.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/swapagarwal/swag-for-dev)
 
 ### Local & Docker setup
 
